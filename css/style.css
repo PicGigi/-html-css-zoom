@@ -49,7 +49,7 @@ main{
 }
 
 .user-name{
-    background-color: rgba(0, 0, 0, 50);
+    background-color: rgba(0, 0, 0, .5);
     color: white;
     width: fit-content;
     padding: 5px;
@@ -61,7 +61,7 @@ main{
 footer{
     height: 100px;
     width: 100vw;
-    background-color: rgb(59, 59, 59);
+    background-color: rgb(60, 60, 60);
     color: white;
     position: fixed;
     bottom: 0;
